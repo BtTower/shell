@@ -20,6 +20,7 @@ int main(int argc, char const *argv[])
         }
         printString(&inputString);
     }
+    printf("hellow first branch");
     
     return 0;
 }
